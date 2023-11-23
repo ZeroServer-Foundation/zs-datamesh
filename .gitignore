@@ -1,0 +1,10 @@
+*~
+*.sw[op]
+venv
+__pycache__
+*DS_Store
+TMP
+RUN
+MODELS
+__dist_html__
+
